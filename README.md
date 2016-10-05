@@ -2,7 +2,7 @@
 # Created By: Alan Duffy-Guy
 # 
 #
-# Partally working (Server Down) 
+# Partally working (mySQL Server Down) 
 #locations on the web
 #Part 1 of Project: http://unixweb.kutztown.edu/~aduff463/Project/Phase1/BookMain.html
 #files located in: https://github.com/aduffyguy/Kutztown-Web-Development-/tree/Project1
